@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 50px; background-color: #f4f4f4; }
+        .box { background: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h1 { color: #003366; } /* CUK Blue */
+        #status { font-weight: bold; color: #d93025; font-size: 20px; }
+        button { background: #003366; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h1>The Cooperative University of Kenya</h1>
+    <p>Current Portal Status: <span id="status">OFFLINE</span></p>
+    
+    <button onclick="updatePortal()">Login to Student Portal</button>
+</div>
+
+<script>
+    function updatePortal() {
+        // Find the word "OFFLINE" by its ID and replace it
+        var target = document.getElementById("status");
+        
+        // This line performs the replacement
+        target.innerHTML = "ONLINE";
+        
+        // Optional: Change the color to green to show success
+        target.style.color = "#188038";
+    }
+</script>
+
+</body>
+</html>
