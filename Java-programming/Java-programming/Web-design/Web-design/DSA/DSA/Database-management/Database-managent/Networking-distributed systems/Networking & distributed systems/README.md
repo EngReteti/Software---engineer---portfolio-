@@ -5,7 +5,7 @@ This folder tracks my journey from basic socket programming to building fault-to
 
   Level 1: Basic Client-Server Chat
      Concept: Establishing a TCP connection between a single client and a server.
-     Goal: Client sends a "Hello" message, and the server sends a response.
+     Goal: Client sends a message, and the server sends a response.
 
   Level 2: Multi-Client Server
      Concept: Using Multi-threading to handle multiple simultaneous connections.
