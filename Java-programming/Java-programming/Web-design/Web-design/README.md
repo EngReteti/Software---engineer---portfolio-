@@ -29,7 +29,7 @@ These are my outputs👇
 ![Image](https://github.com/user-attachments/assets/96b7af8e-054f-4a7c-904e-765ea9377d4d) changed from offline to online when I clicked 'log to student portal' ➡️ ![Image](https://github.com/user-attachments/assets/5ace5ce1-c7d5-4be4-889f-823844fb21c5)
 
 ![Image](https://github.com/user-attachments/assets/d34ac80b-602f-45f5-ac53-a21addd98b3a) <display of the CUK validation form>. 
-![Image](https://github.com/user-attachments/assets/d34ac80b-602f-45f5-ac53-a21addd98b3a)➡️
-![Image](https://github.com/user-attachments/assets/e100ef1c-a478-4304-9cd3-c56f826d6259)
-![Image](https://github.com/user-attachments/assets/d36df3ac-e830-4e3e-8976-8230de745e99)
-![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713)
+![Image](https://github.com/user-attachments/assets/d34ac80b-602f-45f5-ac53-a21addd98b3a)
+![Image](https://github.com/user-attachments/assets/e100ef1c-a478-4304-9cd3-c56f826d6259)➡️
+![Image](https://github.com/user-attachments/assets/d36df3ac-e830-4e3e-8976-8230de745e99)➡️
+![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713)➡️
