@@ -38,7 +38,7 @@ CUK Form validation:
 can't submit application until the fields are fill correctly with a valid email containing '@' and '.' and it doesn't proceed submission when the fields are empty.
 
 
-step by step procedures of running my web design codes successfully with android.
+step by step procedure of running my web design codes successfully with android.
 1. Using spck editor android open it
 2. Click the + button at the top to add a file
 3. Add the file name with a .html eg cuk_form.html
