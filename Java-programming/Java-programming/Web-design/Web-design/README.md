@@ -38,6 +38,12 @@ CUK Form validation:
 can't submit application until the fields are fill correctly with a valid email containing '@' and '.' and it doesn't proceed submission when the fields are empty.
 
 
+Objective: Create an interactive, validated web portal.
+
+Feature: Responsive CSS styling and JavaScript Form Validation (Email/Name).
+
+Why: Ensures a professional User Experience (UX) and prevents invalid data from reaching the backend.
+
 step by step procedure of running my web design codes successfully with android.
 1. Using spck editor android open it
 2. Click the + button at the top to add a file
