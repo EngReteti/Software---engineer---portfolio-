@@ -35,13 +35,13 @@ public class Main {
             new Medicine("Vitamin C", 100, 1.10)
         };
 
-        System.out.println("========== PHARMACY MANAGEMENT SYSTEM ==========");
+        System.out.println(" PHARMACY MANAGEMENT SYSTEM");
         
         // 3. The Loop: This automatically checks every item in the list
         for (int i = 0; i < inventory.length; i++) {
             inventory[i].displayStatus();
         }
 
-        System.out.println("================================================");
+        System.out.println("");
     }
 }
