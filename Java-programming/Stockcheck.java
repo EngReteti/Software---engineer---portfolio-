@@ -4,7 +4,7 @@ public class Main {
         int quantity = 9; 
         String medicineName = "Paracetamol";
 
-        System.out.println("--- Checking " + medicineName + " ---");
+        System.out.println("Checking " + medicineName + " ");
         
         if (quantity <= 0) {
             System.out.println("Status: OUT OF STOCK!");
