@@ -13,6 +13,7 @@ I specialize in building integrated systems where data flows seamlessly across t
  Web Design: Responsive, user-centric frontend and backend integration.
 
 🛠️ Tech Stack & Tools
+
  Category                           Skills                            Tools 
 
  Backend                            SQL, API Logic                    MySQL, code editor 
