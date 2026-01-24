@@ -35,3 +35,4 @@ CUK Form validation:
 ![Image](https://github.com/user-attachments/assets/e100ef1c-a478-4304-9cd3-c56f826d6259)➡️
 ![Image](https://github.com/user-attachments/assets/d36df3ac-e830-4e3e-8976-8230de745e99)➡️
 ![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713)
+can't process until the fields are fill correctly with a valid email containing '@' ang '.' and it doesn't proceed when the fields are empty.
