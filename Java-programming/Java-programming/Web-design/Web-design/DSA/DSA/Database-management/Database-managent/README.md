@@ -14,4 +14,11 @@ Level 2: School Management Database
 
 Level 3: Data Integrity
     Implementing Primary Keys and Foreign Keys to maintain relationships.
+
+
+Objective: Design a relational system for university data management.
+
+Feature: A 3-table schema (Students, Units, Grades) utilizing INNER JOIN queries.
+
+Why: Uses Normalization to eliminate data redundancy and ensure database integrity.
     
