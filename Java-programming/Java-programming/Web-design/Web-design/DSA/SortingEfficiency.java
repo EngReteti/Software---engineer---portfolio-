@@ -9,21 +9,21 @@ public class Main {
         // Step 1: Generate 50 random numbers (0 to 100)
         for (int i = 0; i < 50; i++) original[i] = rand.nextInt(101);
 
-        // --- A. BUBBLE SORT ---
+        // A. BUBBLE SORT 
         int[] arrB = Arrays.copyOf(original, 50);
         long startB = System.nanoTime();
         bubbleSort(arrB);
         long endB = System.nanoTime();
         System.out.println("Bubble Sort Time:    " + (endB - startB) + " ns");
 
-        // --- B. SELECTION SORT ---
+        // B. SELECTION SORT 
         int[] arrS = Arrays.copyOf(original, 50);
         long startS = System.nanoTime();
         selectionSort(arrS);
         long endS = System.nanoTime();
         System.out.println("Selection Sort Time: " + (endS - startS) + " ns");
 
-        // --- C. MERGE SORT ---
+        // C. MERGE SORT 
         int[] arrM = Arrays.copyOf(original, 50);
         long startM = System.nanoTime();
         mergeSort(arrM, 0, arrM.length - 1);
