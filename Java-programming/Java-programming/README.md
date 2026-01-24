@@ -21,6 +21,8 @@ This folder contains my Java development journey, focusing on clean code and Obj
      Update Stock: Modifying existing data quantities.
      Display/Remove: Viewing and deleting inventory items.
      Technical Skills: Java `ArrayList`, OOP Inheritance/Encapsulation, and a Console-based Menu System.
+
+This are the successful outputs of my codes👇
   
 
 ![Image](https://github.com/user-attachments/assets/e9ea921d-de8a-457d-a6f5-1ffeada6d5b5)
