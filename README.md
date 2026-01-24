@@ -1,4 +1,5 @@
 🎓 EngReteti: Software Engineering Portfolio
+
 Computer Science at The Cooperative University of Kenya.
 
 Welcome! This portfolio is a curated collection of my technical work, demonstrating a full-stack understanding of modern computing from the hardware layer to the user interface.
