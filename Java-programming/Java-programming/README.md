@@ -33,5 +33,5 @@ Stack Check:
 Medicine OOP:
 ![Image](https://github.com/user-attachments/assets/63b9a5c3-2e2d-4aa4-b384-1b3653d7fdb8)
 
-
+Pharmacy Inventory System:
 ![Image](https://github.com/user-attachments/assets/610fa401-e533-4631-84b4-ff1e42a66d0a)
