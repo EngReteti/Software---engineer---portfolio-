@@ -18,5 +18,5 @@ This folder documents my progression from static HTML structures to dynamic, val
 
    Phase 4: Advanced Form Validation (JavaScript)
      Focus: Client-side logic and data integrity.
-     Goal: A "CUK" form that validates both name and email format while preventing empty submissions using `preventDefault()`.
+     Goal: A "CUK" form that validates both name and email format while preventing empty submissions.
   
