@@ -20,7 +20,7 @@ class Medicine {
         } else {
             System.out.println("Stock Status: Healthy (" + stock + ")");
         }
-        System.out.println("-----------------------------");
+        System.out.println("");
     }
 }
 
@@ -30,7 +30,7 @@ public class Main {
         Medicine med1 = new Medicine("Paracetamol", 5, 2.50);
         Medicine med2 = new Medicine("Amoxicillin", 25, 12.00);
 
-        System.out.println("--- Pharmacy OOP Management System ---");
+        System.out.println(" Pharmacy OOP Management System ");
         
         // 5. Running the actions
         med1.checkInventory();
