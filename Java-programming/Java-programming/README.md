@@ -34,4 +34,4 @@ Medicine OOP:
 ![Image](https://github.com/user-attachments/assets/11d082a2-9946-44a0-9aab-8b68376443c8)
 
 Pharmacy Inventory System:
-![Image](https://github.com/user-attachments/assets/610fa401-e533-4631-84b4-ff1e42a66d0a)
+![Image](https://github.com/user-attachments/assets/7af131c7-9109-4bfc-88ad-f6af9f5051a4)
