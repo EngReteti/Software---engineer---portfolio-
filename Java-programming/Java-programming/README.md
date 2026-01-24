@@ -35,3 +35,17 @@ Medicine OOP:
 
 Pharmacy Inventory System:
 ![Image](https://github.com/user-attachments/assets/7af131c7-9109-4bfc-88ad-f6af9f5051a4)
+
+
+Step by step on how to run my java programming codes successfully using android.
+1. Open code editor AIDE
+2, click file, new file 
+3. it will be named untitled by default 
+4. Now copy my code from GitHub 
+5. Paste in the untitled file you created 
+7. Save the file observing java naming eg ArithmeticBasis 
+8. by default its the file name.txt now change from text to be .java example ArithmeticBasis.java
+9. click done 
+8. click the triangle button in the bottom 
+9. when you click the triangle button it will bring you a dialog where you have to choose, choose the programming language as java and leave the other boxes as default 
+10. click execute. The codes will run successfully by giving outputs.
