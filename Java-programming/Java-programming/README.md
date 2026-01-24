@@ -37,8 +37,11 @@ Pharmacy Inventory System:
 ![Image](https://github.com/user-attachments/assets/7af131c7-9109-4bfc-88ad-f6af9f5051a4)
 
 
-why
- - demonstrate the ability to build functional business tools with clean, modular code 
+Objective: Progress from basic syntax to a full Pharmacy Inventory System.
+
+Feature: CRUD functionality (Add/Update/Remove/Display) using OOP and ArrayLists.
+
+Why: Demonstrates modular architecture and the ability to build scalable, real-world business tools.
 
 
 
