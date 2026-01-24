@@ -36,3 +36,13 @@ CUK Form validation:
 ![Image](https://github.com/user-attachments/assets/d36df3ac-e830-4e3e-8976-8230de745e99)➡️
 ![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713)
 can't submit application until the fields are fill correctly with a valid email containing '@' and '.' and it doesn't proceed submission when the fields are empty.
+
+
+step by step procedures of running my web design codes successfully with android.
+1. Using spck editor android open it
+2. Click the + button at the top to add a file
+3. Add the file name with a .html eg cuk_form.html
+4. Copy my codes 
+5. Clear everything in the file you created and paste the code you copied from my GitHub account 
+6. Click the triangle button at the top which is green in colour 
+7. The output will be displayed.
