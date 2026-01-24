@@ -16,7 +16,7 @@ CREATE TABLE units (
     unit_name VARCHAR(100) NOT NULL
 );
 
- */ Table for Grades (Links Students to Units) */
+ /* Table for Grades (Links Students to Units) */
 CREATE TABLE grades (
     grade_id INT AUTO_INCREMENT PRIMARY KEY,
     student_id INT,
