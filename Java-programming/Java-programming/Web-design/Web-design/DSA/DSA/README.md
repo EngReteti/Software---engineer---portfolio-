@@ -15,4 +15,11 @@ Level 2: Linear Search
 Level 3: Sorting Random Datasets
    Focus: Algorithm logic and execution.
    Project: Generating an array of 50 random numbers,sorting them using Bubble/Selection sort and measure the execution time taken by each sorting algorithm.
+
+
+Objective: Optimize data processing and search/sort efficiency.
+
+Feature: Performance benchmarking of Bubble, Selection, and Merge Sort with execution timers.
+
+Why: Proves understanding of Time Complexity (O notation) to ensure software handles large data sets efficiently.
   
