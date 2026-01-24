@@ -28,7 +28,7 @@ Java Basics:
 ![Image](https://github.com/user-attachments/assets/e9ea921d-de8a-457d-a6f5-1ffeada6d5b5)
 
 Stack Check:
-![Image](https://github.com/user-attachments/assets/88ec695d-f337-4650-8637-be603d24419e)
+![Image](https://github.com/user-attachments/assets/05355bbe-2ab2-4dd8-83a5-f46e95b4f176)
 
 Medicine OOP:
 ![Image](https://github.com/user-attachments/assets/63b9a5c3-2e2d-4aa4-b384-1b3653d7fdb8)
