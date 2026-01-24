@@ -16,8 +16,10 @@ I specialize in building integrated systems where data flows seamlessly across t
 
  Category ➡️ backed  ➡️ logic  ➡️ infrastructure ➡️ fronted 
 
+
  
- Skills: SQL, API Logic ,Algorithms, OOP, Testing, Java, TCP/IP, threads, HTML5, CSS3, JS, UI/UX            
+ Skills: SQL, API Logic ,Algorithms, OOP, Testing, Java, TCP/IP, threads, HTML5, CSS3, JS, UI/UX   
+         
 
 
 
