@@ -19,4 +19,9 @@ This folder documents my progression from static HTML structures to dynamic, val
    Phase 4: Advanced Form Validation (JavaScript)
      Focus: Client-side logic and data integrity.
      Goal: A "CUK" form that validates both name and email format while preventing empty submissions.
+
+
   
+These are my outputs👇
+
+![Image](https://github.com/user-attachments/assets/610fa401-e533-4631-84b4-ff1e42a66d0a)
