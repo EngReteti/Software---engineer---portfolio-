@@ -15,3 +15,9 @@ This folder tracks my journey from basic socket programming to building fault-to
      Concept: Data replication and Leader Election.
      Goal: A simulation of 3 nodes where one node acts as a "Leader" to coordinate data storage across the other two nodes.
   
+
+Objective: Build reliable communication between networked nodes.
+
+Feature: Multi-threaded server and a 3-node distributed simulation with Leader Election.
+
+Why: Shows mastery of Concurrency and the ability to build systems that handle multiple users simultaneously
