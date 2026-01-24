@@ -24,6 +24,7 @@ This folder documents my progression from static HTML structures to dynamic, val
   
 These are my outputs👇
 
+CUK layou:
 ![Image](https://github.com/user-attachments/assets/c1b7f62d-58d4-460c-811d-8e28849d278d)
 
 CUK interactive content:
