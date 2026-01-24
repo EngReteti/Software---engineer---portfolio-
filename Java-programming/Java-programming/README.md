@@ -24,8 +24,10 @@ This folder contains my Java development journey, focusing on clean code and Obj
 
 These are the successful outputs of my codes👇
   
-
+Java Basics:
 ![Image](https://github.com/user-attachments/assets/e9ea921d-de8a-457d-a6f5-1ffeada6d5b5)
+
+
 ![Image](https://github.com/user-attachments/assets/88ec695d-f337-4650-8637-be603d24419e)
 ![Image](https://github.com/user-attachments/assets/63b9a5c3-2e2d-4aa4-b384-1b3653d7fdb8)
 ![Image](https://github.com/user-attachments/assets/610fa401-e533-4631-84b4-ff1e42a66d0a)
