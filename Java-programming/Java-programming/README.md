@@ -37,6 +37,9 @@ Pharmacy Inventory System:
 ![Image](https://github.com/user-attachments/assets/7af131c7-9109-4bfc-88ad-f6af9f5051a4)
 
 
+why - demonstrate the ability to build functional business tools with clean, modular code 
+
+
 Step by step on how to run my java programming codes successfully using android.
 1. Open code editor AIDE
 2, click file, new file 
