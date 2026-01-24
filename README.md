@@ -14,13 +14,12 @@ I specialize in building integrated systems where data flows seamlessly across t
 
 🛠️ Tech Stack & Tools
 
- Category                           Skills                            Tools 
+ Category ➡️ backed  ➡️ logic  ➡️ infrastructure ➡️ fronted 
 
- Backend                            SQL, API Logic                    MySQL, code editor 
+ 
+ Skills: SQL, API Logic ,Algorithms, OOP, Testing, Java, TCP/IP, threads, HTML5, CSS3, JS, UI/UX            
 
- Logic                              Algorithms, OOP, Testing, Java,   jvdroid 
 
- Infrastructure                     TCP/IP, threads.                  jvdroid 
 
- Frontend                           HTML5, CSS3, JS, UI/UX            GitHub Pages, spck editor 
+ Tools:  MySQL, code editor, jvdroid, GitHub Pages, spck editor 
 
