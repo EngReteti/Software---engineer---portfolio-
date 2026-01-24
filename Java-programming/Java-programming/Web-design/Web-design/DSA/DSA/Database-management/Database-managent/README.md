@@ -8,7 +8,7 @@ Level 1: SQL Basics
     Practicing CRUD (Create, Read, Update, Delete) operations.
 
 Level 2: School Management Database
-    Schema Design: Creating tables for `Students`, `Courses`, and `Enrollments`.
+    Schema Design: Creating tables for `Students`, `Umits`, and `Grades`.
     Data Population: Inserting sample student records and course details.
     Relational Queries: Using `JOIN` statements to link students to their specific courses and grades.
 
