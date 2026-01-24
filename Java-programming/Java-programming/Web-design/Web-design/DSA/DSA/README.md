@@ -1,6 +1,6 @@
 
 Data Structures & Algorithms: Basics to Sorting
-This folder tracks my understanding of memory management and algorithm efficiency.
+This folder tracks my understanding of memory management and algorithm time efficiency.
 
  Core Projects
 
