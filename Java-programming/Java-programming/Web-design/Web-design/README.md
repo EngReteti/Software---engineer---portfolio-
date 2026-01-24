@@ -23,5 +23,4 @@ This folder documents my progression from static HTML structures to dynamic, val
 
   
 These are my outputs👇
-
-![Image](https://github.com/user-attachments/assets/610fa401-e533-4631-84b4-ff1e42a66d0a)
+![Image](https://github.com/user-attachments/assets/c1b7f62d-58d4-460c-811d-8e28849d278d)
