@@ -25,3 +25,4 @@ This folder documents my progression from static HTML structures to dynamic, val
 These are my outputs👇
 
 ![Image](https://github.com/user-attachments/assets/c1b7f62d-58d4-460c-811d-8e28849d278d)
+![Image](https://github.com/user-attachments/assets/519ad08e-5d4d-44c8-baff-9e5a2dde18ea) changed from offline to online when I clicked 'log to student portal' ➡️ ![Image](https://github.com/user-attachments/assets/5ace5ce1-c7d5-4be4-889f-823844fb21c5)
