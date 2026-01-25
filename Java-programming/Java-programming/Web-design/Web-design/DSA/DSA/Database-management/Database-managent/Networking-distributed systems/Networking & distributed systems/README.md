@@ -21,3 +21,13 @@ Objective: Build reliable communication between networked nodes.
 Feature: Multi-threaded server and a 3-node distributed simulation with Leader Election.
 
 Why: Shows mastery of Concurrency and the ability to build systems that handle multiple users simultaneously
+
+
+How to run using android 
+1. open Jvdroid tool, click the folder icon, click open, choose storage for the folder, then choose new folder.
+2. enter the name of the folder eg RetetiBankNetwork and save the folder 
+3 click on the folder again, click new to create a Main.java by default file, 
+4. go back to the folder icon, click save as and choose the folder you created RetetiBankNetwork to save your file that you can now name NetworkingBasics.java
+5. click save, where your file will be saved in a folder.
+6. create the files you require to use and save them in the your folder 
+7. paste each code in it's respective file and click the yellowish triangle to run and it will give you the output.
