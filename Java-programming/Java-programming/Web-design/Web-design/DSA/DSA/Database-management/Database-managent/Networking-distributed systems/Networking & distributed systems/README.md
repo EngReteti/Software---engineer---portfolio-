@@ -28,6 +28,8 @@ ClientServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-1
 
 MultiClientServer ![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d) multiple clients asking for balance, reversal, deposit, withdrawal and the server handles all the requests
 
+✍️ to continue working on how this server can respond to all multiple clients requests.
+
 
 How to run using android 
 1. open Jvdroid tool, click the folder icon, click open, choose storage for the folder, then choose new folder.
