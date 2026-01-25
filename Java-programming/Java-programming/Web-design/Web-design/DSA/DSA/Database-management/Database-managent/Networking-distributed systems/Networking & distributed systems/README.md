@@ -22,11 +22,11 @@ Feature: Multi-threaded server and a 3-node distributed simulation with Leader E
 
 Why: Shows mastery of Concurrency and the ability to build systems that handle multiple users simultaneously
 
-NetworkingBasics: ![Image](https://github.com/user-attachments/assets/ae0a58fc-0e91-47b7-9f83-c1d1d7401a07)
+NetworkingBasics: ![Image](https://github.com/user-attachments/assets/ae0a58fc-0e91-47b7-9f83-c1d1d7401a07) server talks and client listens 
 
-ClientServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-16a4-41fa-98db-df0ea5222020)
+ClientServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-16a4-41fa-98db-df0ea5222020) a client ask balance and the server responds 
 
-MultiClientServer ![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d)
+MultiClientServer ![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d) multiple clients asking for balance, reversal, deposit, withdrawal and the server handles all the requests
 
 
 How to run using android 
