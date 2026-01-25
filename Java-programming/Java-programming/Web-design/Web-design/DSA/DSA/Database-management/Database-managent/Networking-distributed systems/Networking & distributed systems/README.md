@@ -28,6 +28,8 @@ ClientServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-1
 
 MultiClientServer ![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d) multiple clients asking for balance, reversal, deposit, withdrawal and the server handles all the requests
 
+DistributedSystemsSimulation: ![Image](https://github.com/user-attachments/assets/336d2573-4484-4d79-bfa0-41006ae351b9)
+
 ✍️ to continue working on how this server can respond to all multiple clients requests.
 
 
