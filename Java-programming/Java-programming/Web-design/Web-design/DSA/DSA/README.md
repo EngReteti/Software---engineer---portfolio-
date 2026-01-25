@@ -25,6 +25,6 @@ Why: Proves understanding of Time Complexity (O notation) to ensure software han
   
 ArrayBasics: ![Image](https://github.com/user-attachments/assets/8765f858-9da2-44ad-acc0-2fc8ac2ef92a)
 
-LineaSearch: ![Image](https://github.com/user-attachments/assets/231a7109-a740-4b2c-90d9-db31b2590beb)![Image](https://github.com/user-attachments/assets/001ea030-59d7-46d1-af9d-9247d7fe2a58)
+LineaSearch: ![Image](https://github.com/user-attachments/assets/231a7109-a740-4b2c-90d9-db31b2590beb) entering a number that does not exist in an array then entering a number within an array![Image](https://github.com/user-attachments/assets/001ea030-59d7-46d1-af9d-9247d7fe2a58)
 
 SortingEfficiency: ![Image](https://github.com/user-attachments/assets/33dfbbfc-5c0b-46af-a892-d9aa35bb175b)
