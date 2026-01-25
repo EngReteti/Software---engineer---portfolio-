@@ -28,3 +28,13 @@ ArrayBasics: ![Image](https://github.com/user-attachments/assets/8765f858-9da2-4
 LineaSearch: ![Image](https://github.com/user-attachments/assets/231a7109-a740-4b2c-90d9-db31b2590beb) entering a number that does not exist in an array then entering a number within an array![Image](https://github.com/user-attachments/assets/001ea030-59d7-46d1-af9d-9247d7fe2a58)
 
 SortingEfficiency: ![Image](https://github.com/user-attachments/assets/33dfbbfc-5c0b-46af-a892-d9aa35bb175b)
+
+
+How to run with android 
+1. Open Jvdroid tool 
+2. click the folder icon 
+3. click new
+4. it will save Main.java* automatically 
+5. click in the folder again, now choose save with the name you wish eg ArrayBasics.java
+6. clear everything, access my code in GitHub, copy it and paste
+7. click the yellowish triangle button to run the code to give you the output.
