@@ -24,9 +24,9 @@ Why: Shows mastery of Concurrency and the ability to build systems that handle m
 
 NetworkingBasics: ![Image](https://github.com/user-attachments/assets/ae0a58fc-0e91-47b7-9f83-c1d1d7401a07)
 
-ClienServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-16a4-41fa-98db-df0ea5222020)
+ClientServerChat: ![Image](https://github.com/user-attachments/assets/8fe8ee5b-16a4-41fa-98db-df0ea5222020)
 
-![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d)
+MultiClientServer ![Image](https://github.com/user-attachments/assets/465bba86-5bf9-42ff-843a-c14a6ecd429d)
 
 
 How to run using android 
