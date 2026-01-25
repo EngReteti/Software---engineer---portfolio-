@@ -34,7 +34,7 @@ CUK Form validation:
 ![Image](https://github.com/user-attachments/assets/d34ac80b-602f-45f5-ac53-a21addd98b3a)➡️
 ![Image](https://github.com/user-attachments/assets/0e911988-3798-4574-9f29-c431004473a9)➡️
 ![Image](https://github.com/user-attachments/assets/d36df3ac-e830-4e3e-8976-8230de745e99)➡️
-![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713)
+![Image](https://github.com/user-attachments/assets/90ef7389-0961-40be-bb10-968a39d65713) it
 can't submit application until the fields are fill correctly with a valid email containing '@' and '.' and it doesn't proceed submission when the fields are empty.
 
 coursework group work at the school lab 
