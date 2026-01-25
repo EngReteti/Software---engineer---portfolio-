@@ -20,7 +20,7 @@ specialize in building integrated systems where data flows seamlessly across the
 
 🛠️ Tech Stack & Tools
 
- Category ➡️ backed  ➡️ logic  ➡️ infrastructure ➡️ fronted 
+ Category ➡️ backend  ➡️ logic  ➡️ infrastructure ➡️ frontend 
 
 
  
