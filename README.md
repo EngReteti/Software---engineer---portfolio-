@@ -2,7 +2,7 @@
 
 Computer Science at The Cooperative University of Kenya.
 
-Welcome! This portfolio is a curated collection of my academic, technical work, miniprojects , main projects and coursework, demonstrating a software engineer understanding of modern computing from the hardware layer to the user interface.
+Welcome! This portfolio is a curated collection of my academic, technical work, miniprojects , main projects and coursework, demonstrating a software engineering understanding of modern computing from the hardware layer to the user interface.
 
 🏗️ Technical Ecosystem
 
