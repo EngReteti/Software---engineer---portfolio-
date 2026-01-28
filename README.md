@@ -1,12 +1,10 @@
 🎓 EngReteti: Software Engineering Portfolio
 
 Computer Science at The Cooperative University of Kenya.
-
 Welcome! This portfolio is a curated collection of my academic, technical work, miniprojects , main projects and coursework, demonstrating a software engineering understanding of modern computing from the hardware layer to the user interface.
 
 
 🏗️ Technical Ecosystem
-
 specialize in building integrated systems where data flows seamlessly across these 5 domains:
 
  Database Management: 3NF Relational schemas and optimized SQL queries.
