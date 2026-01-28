@@ -20,14 +20,14 @@ specialize in building integrated systems where data flows seamlessly across the
 
 🛠️ Tech Stack & Tools
 
- Category; backend  ➡️ logic  ➡️ infrastructure ➡️ frontend 
+ Category: backend  ➡️ logic  ➡️ infrastructure ➡️ frontend 
 
 
  
- Skills: SQL, API Logic ,Algorithms, OOP, Testing, Java, TCP/IP, threads, HTML5, CSS3, JS, UI/UX   
+ Skills: SQL, API Logic ,Algorithms, OOP, Testing, Java, TCP/IP, threads, HTML, CSS, JavaScript, UI/UX   
          
 
 
 
- Tools:  MySQL, code editor, jvdroid, GitHub Pages, spck editor 
+ Tools:  MySQL, code editor, jvdroid, GitHub Pages, spck editor, net beans 
 
